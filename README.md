@@ -2,5 +2,5 @@
 
 To Run:
 cd com\
-mvn install
+mvn clean package
 java -jar \target\com-1.0-SNAPSHOT.jar
